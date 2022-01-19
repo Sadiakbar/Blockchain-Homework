@@ -26,7 +26,7 @@ We will try generate two new nodes with new account addresses that will serve as
  - ./geth --datadir node1 account new
  - ./geth --datadir node2 account new
 
-![Create Nodes](/Cryptozone/Screenshots/Create Nodes.jpg)
+![Create Nodes](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/POA%20Development%20Chain/Cryptozone/Screenshots/Create%20Nodes.jpg)
 
 
 
