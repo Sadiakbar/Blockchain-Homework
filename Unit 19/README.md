@@ -2,6 +2,6 @@
 
 Step 1: Import Ethereum Transaction Functions into the Fintech Finder Application
 
-![Step 1](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/POA%20Development%20Chain/Cryptozone/Screenshots/Custom%20Node.gif)
+![Step 1](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2019/Resources/Step%201.gif)
 
 Thank you!
