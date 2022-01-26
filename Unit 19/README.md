@@ -1,5 +1,7 @@
-# Blockchain-Homework
+# Unit 19 Homework: Cryptocurrency Wallet
 
-Please refer individual folders for each assignment part.
+Step 1: Import Ethereum Transaction Functions into the Fintech Finder Application
+
+
 
 Thank you!
