@@ -26,7 +26,7 @@ Step 3: Interact with Your Deployed Smart Contract
 
 ![WDW_2](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2020/Execution_Results/WDW_2.gif)
 
-![WDW_2](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2020/Execution_Results/WDW_2.JPG)
+![WDW_2](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2020/Execution_Results/WDW_2.jpg)
 
 
 Thank you!
