@@ -1,25 +1,16 @@
-# Unit 19 Homework: Cryptocurrency Wallet
+# Unit 20 Homework: Joint Savings Account
 
-Step 1: Import Ethereum Transaction Functions into the Fintech Finder Application
+Step 1: Create a Joint Savings Account Contract in Solidity
 
-![Step 1](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2019/Resources/Step%201.gif)
+![Code](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2020/Execution_Results/Code.gif)
 
-Step 2: Sign and Execute a Payment Transaction
+Step 2: Compile and Deploy Your Contract in the JavaScript VM
 
-![Step 2](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2019/Resources/Step%202.gif)
+![Compilation_Deployment](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2020/Execution_Results/Compilation_Deployment.gif)
 
 Step 3: Inspect the Transaction
 
 ![Step 3](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2019/Resources/Step%203.gif)
 
-
-Validated Transaction Hash
-![Validated_transaction_hash](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2019/Resources/Validated_transaction_hash.jpg)
-
-Ganache Accounts
-![Ganache_accounts](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2019/Resources/Ganache_accounts.jpg)
-
-Ganache Transactions
-![Ganache_transactions](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2019/Resources/Ganache_transactions.jpg)
 
 Thank you!
