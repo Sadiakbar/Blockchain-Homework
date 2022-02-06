@@ -17,6 +17,15 @@ Step 3: Create the KaseiCoin Deployer Contract
 
 Step 4: Deploy and Test the Crowdsale on a Local Blockchain
 
-![SS - Step 4 (1)](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2021/Evaluation%20Evidence/SS%20-%20Step%204%20(1).jpg)
+1. Deploy the crowdsale to a local blockchain by using Remix, MetaMask, and Ganache.
+
+![SS - Step 4](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2021/Evaluation%20Evidence/SS%20-%20Step%204.jpg)
+
+![Step 4 (1)](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2021/Evaluation%20Evidence/Step%204%20(1).gif)
+
+2. Test the functionality of the crowdsale by using test accounts to buy new tokens and then checking the balances of those accounts.
+3. Review the total supply of minted tokens and the amount of wei that the crowdsale contract has raised.
+
+![Step 4 (2)](https://github.com/Sadiakbar/Blockchain-Homework/blob/main/Unit%2021/Evaluation%20Evidence/Step%204%20(2).gif)
 
 Thank you!
